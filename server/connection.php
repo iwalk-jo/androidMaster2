@@ -1,7 +1,7 @@
 <?php
 $host    ="localhost";
 $username="root";
-$password="Iwalk<jo>";
+$password="########";
 $database="apps";
 
 $conn=mysqli_connect($host,$username,$password,$database);
